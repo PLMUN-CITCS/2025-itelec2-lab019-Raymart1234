@@ -1,3 +1,5 @@
+"""Enhanced Grade Calculator with Function Decomposition"""
+
 def get_student_score() -> float:
     """
     Handles user input to obtain the student's score.
